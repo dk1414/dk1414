@@ -7,6 +7,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Northwestern University.
 - 📚 I’m currently practicing on leetcode and learning JavaScript
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/declan-kneita) [Gmail](mailto:declankneita2025@u.northwestern.edu)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/declan-kneita/) [Gmail](mailto:declankneita2025@u.northwestern.edu)
 
 
